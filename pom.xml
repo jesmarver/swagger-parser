@@ -380,6 +380,9 @@
         <jackson-version>2.12.1</jackson-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <sonatypeOssDistMgmtSnapshotsUrl>https://oss.sonatype.org/content/repositories/snapshots/</sonatypeOssDistMgmtSnapshotsUrl>
+        <sonar.projectKey>jesmarver_swagger-parser</sonar.projectKey>
+        <sonar.organization>jesmarver</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
 </project>
